@@ -1,0 +1,7 @@
+{
+  "name": "Weston Roofing Co - WaaS Engine",
+  "description": "A professional, high-converting lead generation website for Weston Roofing Co in Deer Park, TX, featuring sticky CTAs, trust signals, and SEO-optimized roofing service content.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
